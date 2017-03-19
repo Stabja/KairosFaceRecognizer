@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Github\FaceRecognition\app\libs\KairosSDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5133cf8c531d2432f50c5e82cd07d834d3d19850">
+        <dex dex="C:\Github\FaceRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\2\KairosSDK_13e373dd715731fed53525486312f32034cf10a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Github\FaceRecognition\app\libs\KairosSDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5133cf8c531d2432f50c5e82cd07d834d3d19850">
+        <dex dex="C:\Github\FaceRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\2\KairosSDK_13e373dd715731fed53525486312f32034cf10a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Github\FaceRecognition\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Github\FaceRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.0_2438d00614744b70cf32717ff0885f92f116716e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Github\FaceRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_61af81d73bb47e3d66f2a67805971f1032963f05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Github\FaceRecognition\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Github\FaceRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.0_d68bb8a7894dbc06087919aeefcda2eab30021a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Github\FaceRecognition\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Github\FaceRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.0_9226540f09727e581732958782bfed95485bc087\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Github\FaceRecognition\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f362737d6a845ebf6b31e40f65a7f4995273da8c">
+        <dex dex="C:\Github\FaceRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_37481751b0073e53d9428a595ae6763909422186\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Github\FaceRecognition\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f362737d6a845ebf6b31e40f65a7f4995273da8c">
+        <dex dex="C:\Github\FaceRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_37481751b0073e53d9428a595ae6763909422186\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Github\FaceRecognition\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Github\FaceRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_67184ca9b339ee1eeda643a84b5138840527d8d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Github\FaceRecognition\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Github\FaceRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.0_5310ad0d17178f11d85eb13f2ef906acb7024e3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Github\FaceRecognition\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Github\FaceRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.0_6b4829b4dd75da1b39580e0860f7e922590c22d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Github\FaceRecognition\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4392c787aa01bc5f8fd16f174ed2a76cbe186afc">
+        <dex dex="C:\Github\FaceRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d6da6396b4d37f07d4ab56fe269f187eeeefd670\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Github\FaceRecognition\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Github\FaceRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.0_c237e24ec3dd1a24c0e347ecd2d449acb5f63382\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Github\FaceRecognition\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="38cb6e7dd7515dc86958d94b5df5c267d91b1326">
+        <dex dex="C:\Github\FaceRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d6da6396b4d37f07d4ab56fe269f187eeeefd670\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Github\FaceRecognition\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Github\FaceRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.0_6ea2f722b9353bc465fcb8dc523ae867b9d72d2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Github\FaceRecognition\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Github\FaceRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.0_3108fc9971117590237a6be5163d0065e935a7d3\classes.dex" />
+    </item>
+
+</items>

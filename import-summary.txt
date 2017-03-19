@@ -1,0 +1,75 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea\
+* .idea\libraries\
+* .idea\libraries\KairosSDK.xml
+* .idea\libraries\KairosSDK_android_dev.xml
+* .idea\libraries\android_async_http_1_4_6.xml
+* .idea\uiDesigner.xml
+* KairosSDKsrc\
+* KairosSDKsrc\AndroidManifest.xml
+* KairosSDKsrc\META-INF\
+* KairosSDKsrc\META-INF\MANIFEST.MF
+* KairosSDKsrc\README.md
+* KairosSDKsrc\ant.properties
+* KairosSDKsrc\build.xml
+* KairosSDKsrc\libs\
+* KairosSDKsrc\libs\android-async-http-1.4.6.jar
+* KairosSDKsrc\proguard-project.txt
+* KairosSDKsrc\project.properties
+* KairosSDKsrc\res\
+* KairosSDKsrc\res\drawable-hdpi\
+* KairosSDKsrc\res\drawable-hdpi\ic_launcher.png
+* KairosSDKsrc\res\drawable-ldpi\
+* KairosSDKsrc\res\drawable-ldpi\ic_launcher.png
+* KairosSDKsrc\res\drawable-mdpi\
+* KairosSDKsrc\res\drawable-mdpi\ic_launcher.png
+* KairosSDKsrc\res\drawable-xhdpi\
+* KairosSDKsrc\res\drawable-xhdpi\ic_launcher.png
+* KairosSDKsrc\res\layout\
+* KairosSDKsrc\res\layout\main.xml
+* KairosSDKsrc\res\values\
+* KairosSDKsrc\res\values\strings.xml
+* KairosSDKsrc\src\
+* KairosSDKsrc\src\com\
+* KairosSDKsrc\src\com\kairos\
+* KairosSDKsrc\src\com\kairos\Kairos.java
+* KairosSDKsrc\src\com\kairos\KairosListener.java
+* LICENSE
+* README.md
+* ant.properties
+* build.xml
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* libs\KairosSDK.jar => app\libs\KairosSDK.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

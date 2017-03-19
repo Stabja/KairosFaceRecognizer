@@ -1,0 +1,7 @@
+#Sun Mar 19 17:32:53 IST 2017
+base.0=C\:\\Github\\FaceRecognition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_37481751b0073e53d9428a595ae6763909422186
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Github\\FaceRecognition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d6da6396b4d37f07d4ab56fe269f187eeeefd670\\classes.dex
+base.1=C\:\\Github\\FaceRecognition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d6da6396b4d37f07d4ab56fe269f187eeeefd670
+file.0=C\:\\Github\\FaceRecognition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_37481751b0073e53d9428a595ae6763909422186\\classes.dex

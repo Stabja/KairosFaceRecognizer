@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Github\\FaceRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Github\\FaceRecognition\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Github\\FaceRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\kairos_splash.png",
+        "source": "C:\\Github\\FaceRecognition\\app\\src\\main\\res\\drawable-xhdpi\\kairos_splash.png"
+    }
+]
